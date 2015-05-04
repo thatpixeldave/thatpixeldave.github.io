@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://thatpixeldave.github.io/blog/2015/05/03/second-test-post/</loc>
+    <lastmod>2015-05-03T23:03:39-04:00</lastmod>
+  </url>
+  <url>
     <loc>http://thatpixeldave.github.io/blog/2015/05/03/hello-world/</loc>
     <lastmod>2015-05-03T20:03:47-04:00</lastmod>
   </url>
   <url>
-    <loc>http://thatpixeldave.github.io/blog/2015/05/03/second-test-post/</loc>
-    <lastmod>2015-05-03T00:00:00-04:00</lastmod>
+    <loc>http://thatpixeldave.github.io/blog/</loc>
   </url>
   <url>
     <loc>http://thatpixeldave.github.io/blog/archives/</loc>
@@ -15,9 +18,12 @@
     <loc>http://thatpixeldave.github.io/archives/</loc>
   </url>
   <url>
-    <loc>http://thatpixeldave.github.io/blog/</loc>
+    <loc>http://thatpixeldave.github.io/categories/</loc>
   </url>
   <url>
     <loc>http://thatpixeldave.github.io/</loc>
+  </url>
+  <url>
+    <loc>http://thatpixeldave.github.io/posts/</loc>
   </url>
 </urlset>
